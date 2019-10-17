@@ -1,5 +1,6 @@
 # prop_diagnostics
-The 2nd stage repo for projects that did not pass calibration testing.
+The 1st stage repo for projects that did not pass calibration testing. It offers a 
+proposed (prop) update which may needed further tests to complete. 
 
 Introduction to the Proposal Diagnostics Workbench
 
