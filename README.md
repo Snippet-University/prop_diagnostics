@@ -11,7 +11,10 @@ entered into the storefront using general tagging and markup for testing purpose
 
 #Attributions: Cloudbursting Stock
 
-#Programs Used : Visual Studio (prop)
+#Programs Used : Visual Studio (prop), Notepad++ (see below)
+
+https://github.com/notepad-plus-plus/notepad-plus-plus
+
 
 
 
